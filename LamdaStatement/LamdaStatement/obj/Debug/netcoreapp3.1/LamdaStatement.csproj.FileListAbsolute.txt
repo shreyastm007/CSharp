@@ -1,0 +1,14 @@
+C:\Users\107061\Desktop\c sharp#\LamdaStatement\LamdaStatement\bin\Debug\netcoreapp3.1\LamdaStatement.exe
+C:\Users\107061\Desktop\c sharp#\LamdaStatement\LamdaStatement\bin\Debug\netcoreapp3.1\LamdaStatement.deps.json
+C:\Users\107061\Desktop\c sharp#\LamdaStatement\LamdaStatement\bin\Debug\netcoreapp3.1\LamdaStatement.runtimeconfig.json
+C:\Users\107061\Desktop\c sharp#\LamdaStatement\LamdaStatement\bin\Debug\netcoreapp3.1\LamdaStatement.runtimeconfig.dev.json
+C:\Users\107061\Desktop\c sharp#\LamdaStatement\LamdaStatement\bin\Debug\netcoreapp3.1\LamdaStatement.dll
+C:\Users\107061\Desktop\c sharp#\LamdaStatement\LamdaStatement\bin\Debug\netcoreapp3.1\LamdaStatement.pdb
+C:\Users\107061\Desktop\c sharp#\LamdaStatement\LamdaStatement\obj\Debug\netcoreapp3.1\LamdaStatement.csproj.AssemblyReference.cache
+C:\Users\107061\Desktop\c sharp#\LamdaStatement\LamdaStatement\obj\Debug\netcoreapp3.1\LamdaStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107061\Desktop\c sharp#\LamdaStatement\LamdaStatement\obj\Debug\netcoreapp3.1\LamdaStatement.AssemblyInfoInputs.cache
+C:\Users\107061\Desktop\c sharp#\LamdaStatement\LamdaStatement\obj\Debug\netcoreapp3.1\LamdaStatement.AssemblyInfo.cs
+C:\Users\107061\Desktop\c sharp#\LamdaStatement\LamdaStatement\obj\Debug\netcoreapp3.1\LamdaStatement.csproj.CoreCompileInputs.cache
+C:\Users\107061\Desktop\c sharp#\LamdaStatement\LamdaStatement\obj\Debug\netcoreapp3.1\LamdaStatement.dll
+C:\Users\107061\Desktop\c sharp#\LamdaStatement\LamdaStatement\obj\Debug\netcoreapp3.1\LamdaStatement.pdb
+C:\Users\107061\Desktop\c sharp#\LamdaStatement\LamdaStatement\obj\Debug\netcoreapp3.1\LamdaStatement.genruntimeconfig.cache

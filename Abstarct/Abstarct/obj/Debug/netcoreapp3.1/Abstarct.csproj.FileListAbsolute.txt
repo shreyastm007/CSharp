@@ -1,0 +1,28 @@
+C:\Users\107061\source\repos\Abstarct\Abstarct\bin\Debug\netcoreapp3.1\Abstarct.exe
+C:\Users\107061\source\repos\Abstarct\Abstarct\bin\Debug\netcoreapp3.1\Abstarct.deps.json
+C:\Users\107061\source\repos\Abstarct\Abstarct\bin\Debug\netcoreapp3.1\Abstarct.runtimeconfig.json
+C:\Users\107061\source\repos\Abstarct\Abstarct\bin\Debug\netcoreapp3.1\Abstarct.runtimeconfig.dev.json
+C:\Users\107061\source\repos\Abstarct\Abstarct\bin\Debug\netcoreapp3.1\Abstarct.dll
+C:\Users\107061\source\repos\Abstarct\Abstarct\bin\Debug\netcoreapp3.1\Abstarct.pdb
+C:\Users\107061\source\repos\Abstarct\Abstarct\obj\Debug\netcoreapp3.1\Abstarct.csproj.AssemblyReference.cache
+C:\Users\107061\source\repos\Abstarct\Abstarct\obj\Debug\netcoreapp3.1\Abstarct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107061\source\repos\Abstarct\Abstarct\obj\Debug\netcoreapp3.1\Abstarct.AssemblyInfoInputs.cache
+C:\Users\107061\source\repos\Abstarct\Abstarct\obj\Debug\netcoreapp3.1\Abstarct.AssemblyInfo.cs
+C:\Users\107061\source\repos\Abstarct\Abstarct\obj\Debug\netcoreapp3.1\Abstarct.csproj.CoreCompileInputs.cache
+C:\Users\107061\source\repos\Abstarct\Abstarct\obj\Debug\netcoreapp3.1\Abstarct.dll
+C:\Users\107061\source\repos\Abstarct\Abstarct\obj\Debug\netcoreapp3.1\Abstarct.pdb
+C:\Users\107061\source\repos\Abstarct\Abstarct\obj\Debug\netcoreapp3.1\Abstarct.genruntimeconfig.cache
+C:\Users\107061\Desktop\c sharp#\Abstarct\Abstarct\bin\Debug\netcoreapp3.1\Abstarct.exe
+C:\Users\107061\Desktop\c sharp#\Abstarct\Abstarct\bin\Debug\netcoreapp3.1\Abstarct.deps.json
+C:\Users\107061\Desktop\c sharp#\Abstarct\Abstarct\bin\Debug\netcoreapp3.1\Abstarct.runtimeconfig.json
+C:\Users\107061\Desktop\c sharp#\Abstarct\Abstarct\bin\Debug\netcoreapp3.1\Abstarct.runtimeconfig.dev.json
+C:\Users\107061\Desktop\c sharp#\Abstarct\Abstarct\bin\Debug\netcoreapp3.1\Abstarct.dll
+C:\Users\107061\Desktop\c sharp#\Abstarct\Abstarct\bin\Debug\netcoreapp3.1\Abstarct.pdb
+C:\Users\107061\Desktop\c sharp#\Abstarct\Abstarct\obj\Debug\netcoreapp3.1\Abstarct.csproj.AssemblyReference.cache
+C:\Users\107061\Desktop\c sharp#\Abstarct\Abstarct\obj\Debug\netcoreapp3.1\Abstarct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107061\Desktop\c sharp#\Abstarct\Abstarct\obj\Debug\netcoreapp3.1\Abstarct.AssemblyInfoInputs.cache
+C:\Users\107061\Desktop\c sharp#\Abstarct\Abstarct\obj\Debug\netcoreapp3.1\Abstarct.AssemblyInfo.cs
+C:\Users\107061\Desktop\c sharp#\Abstarct\Abstarct\obj\Debug\netcoreapp3.1\Abstarct.csproj.CoreCompileInputs.cache
+C:\Users\107061\Desktop\c sharp#\Abstarct\Abstarct\obj\Debug\netcoreapp3.1\Abstarct.dll
+C:\Users\107061\Desktop\c sharp#\Abstarct\Abstarct\obj\Debug\netcoreapp3.1\Abstarct.pdb
+C:\Users\107061\Desktop\c sharp#\Abstarct\Abstarct\obj\Debug\netcoreapp3.1\Abstarct.genruntimeconfig.cache

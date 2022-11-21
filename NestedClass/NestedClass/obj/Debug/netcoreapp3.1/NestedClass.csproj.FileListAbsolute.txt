@@ -1,0 +1,13 @@
+C:\Users\107061\Desktop\c sharp\NestedClass\NestedClass\bin\Debug\netcoreapp3.1\NestedClass.exe
+C:\Users\107061\Desktop\c sharp\NestedClass\NestedClass\bin\Debug\netcoreapp3.1\NestedClass.deps.json
+C:\Users\107061\Desktop\c sharp\NestedClass\NestedClass\bin\Debug\netcoreapp3.1\NestedClass.runtimeconfig.json
+C:\Users\107061\Desktop\c sharp\NestedClass\NestedClass\bin\Debug\netcoreapp3.1\NestedClass.runtimeconfig.dev.json
+C:\Users\107061\Desktop\c sharp\NestedClass\NestedClass\bin\Debug\netcoreapp3.1\NestedClass.dll
+C:\Users\107061\Desktop\c sharp\NestedClass\NestedClass\bin\Debug\netcoreapp3.1\NestedClass.pdb
+C:\Users\107061\Desktop\c sharp\NestedClass\NestedClass\obj\Debug\netcoreapp3.1\NestedClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107061\Desktop\c sharp\NestedClass\NestedClass\obj\Debug\netcoreapp3.1\NestedClass.AssemblyInfoInputs.cache
+C:\Users\107061\Desktop\c sharp\NestedClass\NestedClass\obj\Debug\netcoreapp3.1\NestedClass.AssemblyInfo.cs
+C:\Users\107061\Desktop\c sharp\NestedClass\NestedClass\obj\Debug\netcoreapp3.1\NestedClass.csproj.CoreCompileInputs.cache
+C:\Users\107061\Desktop\c sharp\NestedClass\NestedClass\obj\Debug\netcoreapp3.1\NestedClass.dll
+C:\Users\107061\Desktop\c sharp\NestedClass\NestedClass\obj\Debug\netcoreapp3.1\NestedClass.pdb
+C:\Users\107061\Desktop\c sharp\NestedClass\NestedClass\obj\Debug\netcoreapp3.1\NestedClass.genruntimeconfig.cache

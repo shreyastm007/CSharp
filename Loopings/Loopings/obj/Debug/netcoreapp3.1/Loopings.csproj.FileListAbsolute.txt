@@ -1,0 +1,13 @@
+C:\Users\107061\Desktop\c sharp\Loopings\Loopings\bin\Debug\netcoreapp3.1\Loopings.exe
+C:\Users\107061\Desktop\c sharp\Loopings\Loopings\bin\Debug\netcoreapp3.1\Loopings.deps.json
+C:\Users\107061\Desktop\c sharp\Loopings\Loopings\bin\Debug\netcoreapp3.1\Loopings.runtimeconfig.json
+C:\Users\107061\Desktop\c sharp\Loopings\Loopings\bin\Debug\netcoreapp3.1\Loopings.runtimeconfig.dev.json
+C:\Users\107061\Desktop\c sharp\Loopings\Loopings\bin\Debug\netcoreapp3.1\Loopings.dll
+C:\Users\107061\Desktop\c sharp\Loopings\Loopings\bin\Debug\netcoreapp3.1\Loopings.pdb
+C:\Users\107061\Desktop\c sharp\Loopings\Loopings\obj\Debug\netcoreapp3.1\Loopings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107061\Desktop\c sharp\Loopings\Loopings\obj\Debug\netcoreapp3.1\Loopings.AssemblyInfoInputs.cache
+C:\Users\107061\Desktop\c sharp\Loopings\Loopings\obj\Debug\netcoreapp3.1\Loopings.AssemblyInfo.cs
+C:\Users\107061\Desktop\c sharp\Loopings\Loopings\obj\Debug\netcoreapp3.1\Loopings.csproj.CoreCompileInputs.cache
+C:\Users\107061\Desktop\c sharp\Loopings\Loopings\obj\Debug\netcoreapp3.1\Loopings.dll
+C:\Users\107061\Desktop\c sharp\Loopings\Loopings\obj\Debug\netcoreapp3.1\Loopings.pdb
+C:\Users\107061\Desktop\c sharp\Loopings\Loopings\obj\Debug\netcoreapp3.1\Loopings.genruntimeconfig.cache

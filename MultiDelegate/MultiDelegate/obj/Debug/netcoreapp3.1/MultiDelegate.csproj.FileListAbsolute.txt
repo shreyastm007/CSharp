@@ -1,0 +1,28 @@
+C:\Users\107061\source\repos\MultiDelegate\MultiDelegate\bin\Debug\netcoreapp3.1\MultiDelegate.exe
+C:\Users\107061\source\repos\MultiDelegate\MultiDelegate\bin\Debug\netcoreapp3.1\MultiDelegate.deps.json
+C:\Users\107061\source\repos\MultiDelegate\MultiDelegate\bin\Debug\netcoreapp3.1\MultiDelegate.runtimeconfig.json
+C:\Users\107061\source\repos\MultiDelegate\MultiDelegate\bin\Debug\netcoreapp3.1\MultiDelegate.runtimeconfig.dev.json
+C:\Users\107061\source\repos\MultiDelegate\MultiDelegate\bin\Debug\netcoreapp3.1\MultiDelegate.dll
+C:\Users\107061\source\repos\MultiDelegate\MultiDelegate\bin\Debug\netcoreapp3.1\MultiDelegate.pdb
+C:\Users\107061\source\repos\MultiDelegate\MultiDelegate\obj\Debug\netcoreapp3.1\MultiDelegate.csproj.AssemblyReference.cache
+C:\Users\107061\source\repos\MultiDelegate\MultiDelegate\obj\Debug\netcoreapp3.1\MultiDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107061\source\repos\MultiDelegate\MultiDelegate\obj\Debug\netcoreapp3.1\MultiDelegate.AssemblyInfoInputs.cache
+C:\Users\107061\source\repos\MultiDelegate\MultiDelegate\obj\Debug\netcoreapp3.1\MultiDelegate.AssemblyInfo.cs
+C:\Users\107061\source\repos\MultiDelegate\MultiDelegate\obj\Debug\netcoreapp3.1\MultiDelegate.csproj.CoreCompileInputs.cache
+C:\Users\107061\source\repos\MultiDelegate\MultiDelegate\obj\Debug\netcoreapp3.1\MultiDelegate.dll
+C:\Users\107061\source\repos\MultiDelegate\MultiDelegate\obj\Debug\netcoreapp3.1\MultiDelegate.pdb
+C:\Users\107061\source\repos\MultiDelegate\MultiDelegate\obj\Debug\netcoreapp3.1\MultiDelegate.genruntimeconfig.cache
+C:\Users\107061\Desktop\c sharp#\MultiDelegate\MultiDelegate\bin\Debug\netcoreapp3.1\MultiDelegate.exe
+C:\Users\107061\Desktop\c sharp#\MultiDelegate\MultiDelegate\bin\Debug\netcoreapp3.1\MultiDelegate.deps.json
+C:\Users\107061\Desktop\c sharp#\MultiDelegate\MultiDelegate\bin\Debug\netcoreapp3.1\MultiDelegate.runtimeconfig.json
+C:\Users\107061\Desktop\c sharp#\MultiDelegate\MultiDelegate\bin\Debug\netcoreapp3.1\MultiDelegate.runtimeconfig.dev.json
+C:\Users\107061\Desktop\c sharp#\MultiDelegate\MultiDelegate\bin\Debug\netcoreapp3.1\MultiDelegate.dll
+C:\Users\107061\Desktop\c sharp#\MultiDelegate\MultiDelegate\bin\Debug\netcoreapp3.1\MultiDelegate.pdb
+C:\Users\107061\Desktop\c sharp#\MultiDelegate\MultiDelegate\obj\Debug\netcoreapp3.1\MultiDelegate.csproj.AssemblyReference.cache
+C:\Users\107061\Desktop\c sharp#\MultiDelegate\MultiDelegate\obj\Debug\netcoreapp3.1\MultiDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107061\Desktop\c sharp#\MultiDelegate\MultiDelegate\obj\Debug\netcoreapp3.1\MultiDelegate.AssemblyInfoInputs.cache
+C:\Users\107061\Desktop\c sharp#\MultiDelegate\MultiDelegate\obj\Debug\netcoreapp3.1\MultiDelegate.AssemblyInfo.cs
+C:\Users\107061\Desktop\c sharp#\MultiDelegate\MultiDelegate\obj\Debug\netcoreapp3.1\MultiDelegate.csproj.CoreCompileInputs.cache
+C:\Users\107061\Desktop\c sharp#\MultiDelegate\MultiDelegate\obj\Debug\netcoreapp3.1\MultiDelegate.dll
+C:\Users\107061\Desktop\c sharp#\MultiDelegate\MultiDelegate\obj\Debug\netcoreapp3.1\MultiDelegate.pdb
+C:\Users\107061\Desktop\c sharp#\MultiDelegate\MultiDelegate\obj\Debug\netcoreapp3.1\MultiDelegate.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\107061\Desktop\c sharp#\GetSetAccess\GetSetAccess\bin\Debug\netcoreapp3.1\GetSetAccess.exe
+C:\Users\107061\Desktop\c sharp#\GetSetAccess\GetSetAccess\bin\Debug\netcoreapp3.1\GetSetAccess.deps.json
+C:\Users\107061\Desktop\c sharp#\GetSetAccess\GetSetAccess\bin\Debug\netcoreapp3.1\GetSetAccess.runtimeconfig.json
+C:\Users\107061\Desktop\c sharp#\GetSetAccess\GetSetAccess\bin\Debug\netcoreapp3.1\GetSetAccess.runtimeconfig.dev.json
+C:\Users\107061\Desktop\c sharp#\GetSetAccess\GetSetAccess\bin\Debug\netcoreapp3.1\GetSetAccess.dll
+C:\Users\107061\Desktop\c sharp#\GetSetAccess\GetSetAccess\bin\Debug\netcoreapp3.1\GetSetAccess.pdb
+C:\Users\107061\Desktop\c sharp#\GetSetAccess\GetSetAccess\obj\Debug\netcoreapp3.1\GetSetAccess.csproj.AssemblyReference.cache
+C:\Users\107061\Desktop\c sharp#\GetSetAccess\GetSetAccess\obj\Debug\netcoreapp3.1\GetSetAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107061\Desktop\c sharp#\GetSetAccess\GetSetAccess\obj\Debug\netcoreapp3.1\GetSetAccess.AssemblyInfoInputs.cache
+C:\Users\107061\Desktop\c sharp#\GetSetAccess\GetSetAccess\obj\Debug\netcoreapp3.1\GetSetAccess.AssemblyInfo.cs
+C:\Users\107061\Desktop\c sharp#\GetSetAccess\GetSetAccess\obj\Debug\netcoreapp3.1\GetSetAccess.csproj.CoreCompileInputs.cache
+C:\Users\107061\Desktop\c sharp#\GetSetAccess\GetSetAccess\obj\Debug\netcoreapp3.1\GetSetAccess.dll
+C:\Users\107061\Desktop\c sharp#\GetSetAccess\GetSetAccess\obj\Debug\netcoreapp3.1\GetSetAccess.pdb
+C:\Users\107061\Desktop\c sharp#\GetSetAccess\GetSetAccess\obj\Debug\netcoreapp3.1\GetSetAccess.genruntimeconfig.cache

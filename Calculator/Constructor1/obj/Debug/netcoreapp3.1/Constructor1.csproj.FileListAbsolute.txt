@@ -1,0 +1,14 @@
+C:\Users\107061\Desktop\c sharp#\Constructor1\Constructor1\bin\Debug\netcoreapp3.1\Constructor1.exe
+C:\Users\107061\Desktop\c sharp#\Constructor1\Constructor1\bin\Debug\netcoreapp3.1\Constructor1.deps.json
+C:\Users\107061\Desktop\c sharp#\Constructor1\Constructor1\bin\Debug\netcoreapp3.1\Constructor1.runtimeconfig.json
+C:\Users\107061\Desktop\c sharp#\Constructor1\Constructor1\bin\Debug\netcoreapp3.1\Constructor1.runtimeconfig.dev.json
+C:\Users\107061\Desktop\c sharp#\Constructor1\Constructor1\bin\Debug\netcoreapp3.1\Constructor1.dll
+C:\Users\107061\Desktop\c sharp#\Constructor1\Constructor1\bin\Debug\netcoreapp3.1\Constructor1.pdb
+C:\Users\107061\Desktop\c sharp#\Constructor1\Constructor1\obj\Debug\netcoreapp3.1\Constructor1.csproj.AssemblyReference.cache
+C:\Users\107061\Desktop\c sharp#\Constructor1\Constructor1\obj\Debug\netcoreapp3.1\Constructor1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107061\Desktop\c sharp#\Constructor1\Constructor1\obj\Debug\netcoreapp3.1\Constructor1.AssemblyInfoInputs.cache
+C:\Users\107061\Desktop\c sharp#\Constructor1\Constructor1\obj\Debug\netcoreapp3.1\Constructor1.AssemblyInfo.cs
+C:\Users\107061\Desktop\c sharp#\Constructor1\Constructor1\obj\Debug\netcoreapp3.1\Constructor1.csproj.CoreCompileInputs.cache
+C:\Users\107061\Desktop\c sharp#\Constructor1\Constructor1\obj\Debug\netcoreapp3.1\Constructor1.dll
+C:\Users\107061\Desktop\c sharp#\Constructor1\Constructor1\obj\Debug\netcoreapp3.1\Constructor1.pdb
+C:\Users\107061\Desktop\c sharp#\Constructor1\Constructor1\obj\Debug\netcoreapp3.1\Constructor1.genruntimeconfig.cache

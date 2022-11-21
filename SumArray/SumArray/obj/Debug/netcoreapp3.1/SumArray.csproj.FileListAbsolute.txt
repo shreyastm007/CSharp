@@ -1,0 +1,13 @@
+C:\Users\107061\Desktop\c sharp#\SumArray\SumArray\bin\Debug\netcoreapp3.1\SumArray.exe
+C:\Users\107061\Desktop\c sharp#\SumArray\SumArray\bin\Debug\netcoreapp3.1\SumArray.deps.json
+C:\Users\107061\Desktop\c sharp#\SumArray\SumArray\bin\Debug\netcoreapp3.1\SumArray.runtimeconfig.json
+C:\Users\107061\Desktop\c sharp#\SumArray\SumArray\bin\Debug\netcoreapp3.1\SumArray.runtimeconfig.dev.json
+C:\Users\107061\Desktop\c sharp#\SumArray\SumArray\bin\Debug\netcoreapp3.1\SumArray.dll
+C:\Users\107061\Desktop\c sharp#\SumArray\SumArray\bin\Debug\netcoreapp3.1\SumArray.pdb
+C:\Users\107061\Desktop\c sharp#\SumArray\SumArray\obj\Debug\netcoreapp3.1\SumArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107061\Desktop\c sharp#\SumArray\SumArray\obj\Debug\netcoreapp3.1\SumArray.AssemblyInfoInputs.cache
+C:\Users\107061\Desktop\c sharp#\SumArray\SumArray\obj\Debug\netcoreapp3.1\SumArray.AssemblyInfo.cs
+C:\Users\107061\Desktop\c sharp#\SumArray\SumArray\obj\Debug\netcoreapp3.1\SumArray.csproj.CoreCompileInputs.cache
+C:\Users\107061\Desktop\c sharp#\SumArray\SumArray\obj\Debug\netcoreapp3.1\SumArray.dll
+C:\Users\107061\Desktop\c sharp#\SumArray\SumArray\obj\Debug\netcoreapp3.1\SumArray.pdb
+C:\Users\107061\Desktop\c sharp#\SumArray\SumArray\obj\Debug\netcoreapp3.1\SumArray.genruntimeconfig.cache

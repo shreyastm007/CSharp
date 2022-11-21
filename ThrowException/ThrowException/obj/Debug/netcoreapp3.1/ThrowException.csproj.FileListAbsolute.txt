@@ -1,0 +1,14 @@
+C:\Users\107061\Desktop\c sharp#\ThrowException\ThrowException\bin\Debug\netcoreapp3.1\ThrowException.exe
+C:\Users\107061\Desktop\c sharp#\ThrowException\ThrowException\bin\Debug\netcoreapp3.1\ThrowException.deps.json
+C:\Users\107061\Desktop\c sharp#\ThrowException\ThrowException\bin\Debug\netcoreapp3.1\ThrowException.runtimeconfig.json
+C:\Users\107061\Desktop\c sharp#\ThrowException\ThrowException\bin\Debug\netcoreapp3.1\ThrowException.runtimeconfig.dev.json
+C:\Users\107061\Desktop\c sharp#\ThrowException\ThrowException\bin\Debug\netcoreapp3.1\ThrowException.dll
+C:\Users\107061\Desktop\c sharp#\ThrowException\ThrowException\bin\Debug\netcoreapp3.1\ThrowException.pdb
+C:\Users\107061\Desktop\c sharp#\ThrowException\ThrowException\obj\Debug\netcoreapp3.1\ThrowException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107061\Desktop\c sharp#\ThrowException\ThrowException\obj\Debug\netcoreapp3.1\ThrowException.AssemblyInfoInputs.cache
+C:\Users\107061\Desktop\c sharp#\ThrowException\ThrowException\obj\Debug\netcoreapp3.1\ThrowException.AssemblyInfo.cs
+C:\Users\107061\Desktop\c sharp#\ThrowException\ThrowException\obj\Debug\netcoreapp3.1\ThrowException.csproj.CoreCompileInputs.cache
+C:\Users\107061\Desktop\c sharp#\ThrowException\ThrowException\obj\Debug\netcoreapp3.1\ThrowException.dll
+C:\Users\107061\Desktop\c sharp#\ThrowException\ThrowException\obj\Debug\netcoreapp3.1\ThrowException.pdb
+C:\Users\107061\Desktop\c sharp#\ThrowException\ThrowException\obj\Debug\netcoreapp3.1\ThrowException.genruntimeconfig.cache
+C:\Users\107061\Desktop\c sharp#\ThrowException\ThrowException\obj\Debug\netcoreapp3.1\ThrowException.csproj.AssemblyReference.cache

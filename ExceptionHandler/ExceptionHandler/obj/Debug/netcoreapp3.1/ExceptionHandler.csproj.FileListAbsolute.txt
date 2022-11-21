@@ -1,0 +1,14 @@
+C:\Users\107061\Desktop\c sharp#\ExceptionHandler\ExceptionHandler\bin\Debug\netcoreapp3.1\ExceptionHandler.exe
+C:\Users\107061\Desktop\c sharp#\ExceptionHandler\ExceptionHandler\bin\Debug\netcoreapp3.1\ExceptionHandler.deps.json
+C:\Users\107061\Desktop\c sharp#\ExceptionHandler\ExceptionHandler\bin\Debug\netcoreapp3.1\ExceptionHandler.runtimeconfig.json
+C:\Users\107061\Desktop\c sharp#\ExceptionHandler\ExceptionHandler\bin\Debug\netcoreapp3.1\ExceptionHandler.runtimeconfig.dev.json
+C:\Users\107061\Desktop\c sharp#\ExceptionHandler\ExceptionHandler\bin\Debug\netcoreapp3.1\ExceptionHandler.dll
+C:\Users\107061\Desktop\c sharp#\ExceptionHandler\ExceptionHandler\bin\Debug\netcoreapp3.1\ExceptionHandler.pdb
+C:\Users\107061\Desktop\c sharp#\ExceptionHandler\ExceptionHandler\obj\Debug\netcoreapp3.1\ExceptionHandler.csproj.AssemblyReference.cache
+C:\Users\107061\Desktop\c sharp#\ExceptionHandler\ExceptionHandler\obj\Debug\netcoreapp3.1\ExceptionHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107061\Desktop\c sharp#\ExceptionHandler\ExceptionHandler\obj\Debug\netcoreapp3.1\ExceptionHandler.AssemblyInfoInputs.cache
+C:\Users\107061\Desktop\c sharp#\ExceptionHandler\ExceptionHandler\obj\Debug\netcoreapp3.1\ExceptionHandler.AssemblyInfo.cs
+C:\Users\107061\Desktop\c sharp#\ExceptionHandler\ExceptionHandler\obj\Debug\netcoreapp3.1\ExceptionHandler.csproj.CoreCompileInputs.cache
+C:\Users\107061\Desktop\c sharp#\ExceptionHandler\ExceptionHandler\obj\Debug\netcoreapp3.1\ExceptionHandler.dll
+C:\Users\107061\Desktop\c sharp#\ExceptionHandler\ExceptionHandler\obj\Debug\netcoreapp3.1\ExceptionHandler.pdb
+C:\Users\107061\Desktop\c sharp#\ExceptionHandler\ExceptionHandler\obj\Debug\netcoreapp3.1\ExceptionHandler.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\107061\Desktop\c sharp#\D0whileArray\D0whileArray\bin\Debug\netcoreapp3.1\D0whileArray.exe
+C:\Users\107061\Desktop\c sharp#\D0whileArray\D0whileArray\bin\Debug\netcoreapp3.1\D0whileArray.deps.json
+C:\Users\107061\Desktop\c sharp#\D0whileArray\D0whileArray\bin\Debug\netcoreapp3.1\D0whileArray.runtimeconfig.json
+C:\Users\107061\Desktop\c sharp#\D0whileArray\D0whileArray\bin\Debug\netcoreapp3.1\D0whileArray.runtimeconfig.dev.json
+C:\Users\107061\Desktop\c sharp#\D0whileArray\D0whileArray\bin\Debug\netcoreapp3.1\D0whileArray.dll
+C:\Users\107061\Desktop\c sharp#\D0whileArray\D0whileArray\bin\Debug\netcoreapp3.1\D0whileArray.pdb
+C:\Users\107061\Desktop\c sharp#\D0whileArray\D0whileArray\obj\Debug\netcoreapp3.1\D0whileArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107061\Desktop\c sharp#\D0whileArray\D0whileArray\obj\Debug\netcoreapp3.1\D0whileArray.AssemblyInfoInputs.cache
+C:\Users\107061\Desktop\c sharp#\D0whileArray\D0whileArray\obj\Debug\netcoreapp3.1\D0whileArray.AssemblyInfo.cs
+C:\Users\107061\Desktop\c sharp#\D0whileArray\D0whileArray\obj\Debug\netcoreapp3.1\D0whileArray.csproj.CoreCompileInputs.cache
+C:\Users\107061\Desktop\c sharp#\D0whileArray\D0whileArray\obj\Debug\netcoreapp3.1\D0whileArray.dll
+C:\Users\107061\Desktop\c sharp#\D0whileArray\D0whileArray\obj\Debug\netcoreapp3.1\D0whileArray.pdb
+C:\Users\107061\Desktop\c sharp#\D0whileArray\D0whileArray\obj\Debug\netcoreapp3.1\D0whileArray.genruntimeconfig.cache
+C:\Users\107061\Desktop\c sharp#\D0whileArray\D0whileArray\obj\Debug\netcoreapp3.1\D0whileArray.csproj.AssemblyReference.cache

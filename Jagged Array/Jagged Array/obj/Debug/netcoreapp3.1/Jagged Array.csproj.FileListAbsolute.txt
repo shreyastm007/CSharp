@@ -1,0 +1,13 @@
+C:\Users\107061\Desktop\c sharp#\Jagged Array\Jagged Array\bin\Debug\netcoreapp3.1\Jagged Array.exe
+C:\Users\107061\Desktop\c sharp#\Jagged Array\Jagged Array\bin\Debug\netcoreapp3.1\Jagged Array.deps.json
+C:\Users\107061\Desktop\c sharp#\Jagged Array\Jagged Array\bin\Debug\netcoreapp3.1\Jagged Array.runtimeconfig.json
+C:\Users\107061\Desktop\c sharp#\Jagged Array\Jagged Array\bin\Debug\netcoreapp3.1\Jagged Array.runtimeconfig.dev.json
+C:\Users\107061\Desktop\c sharp#\Jagged Array\Jagged Array\bin\Debug\netcoreapp3.1\Jagged Array.dll
+C:\Users\107061\Desktop\c sharp#\Jagged Array\Jagged Array\bin\Debug\netcoreapp3.1\Jagged Array.pdb
+C:\Users\107061\Desktop\c sharp#\Jagged Array\Jagged Array\obj\Debug\netcoreapp3.1\Jagged Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107061\Desktop\c sharp#\Jagged Array\Jagged Array\obj\Debug\netcoreapp3.1\Jagged Array.AssemblyInfoInputs.cache
+C:\Users\107061\Desktop\c sharp#\Jagged Array\Jagged Array\obj\Debug\netcoreapp3.1\Jagged Array.AssemblyInfo.cs
+C:\Users\107061\Desktop\c sharp#\Jagged Array\Jagged Array\obj\Debug\netcoreapp3.1\Jagged Array.csproj.CoreCompileInputs.cache
+C:\Users\107061\Desktop\c sharp#\Jagged Array\Jagged Array\obj\Debug\netcoreapp3.1\Jagged Array.dll
+C:\Users\107061\Desktop\c sharp#\Jagged Array\Jagged Array\obj\Debug\netcoreapp3.1\Jagged Array.pdb
+C:\Users\107061\Desktop\c sharp#\Jagged Array\Jagged Array\obj\Debug\netcoreapp3.1\Jagged Array.genruntimeconfig.cache

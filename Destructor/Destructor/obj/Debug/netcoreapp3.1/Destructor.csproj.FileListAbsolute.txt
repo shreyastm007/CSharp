@@ -1,0 +1,14 @@
+C:\Users\107061\Desktop\c sharp#\Destructor\Destructor\bin\Debug\netcoreapp3.1\Destructor.exe
+C:\Users\107061\Desktop\c sharp#\Destructor\Destructor\bin\Debug\netcoreapp3.1\Destructor.deps.json
+C:\Users\107061\Desktop\c sharp#\Destructor\Destructor\bin\Debug\netcoreapp3.1\Destructor.runtimeconfig.json
+C:\Users\107061\Desktop\c sharp#\Destructor\Destructor\bin\Debug\netcoreapp3.1\Destructor.runtimeconfig.dev.json
+C:\Users\107061\Desktop\c sharp#\Destructor\Destructor\bin\Debug\netcoreapp3.1\Destructor.dll
+C:\Users\107061\Desktop\c sharp#\Destructor\Destructor\bin\Debug\netcoreapp3.1\Destructor.pdb
+C:\Users\107061\Desktop\c sharp#\Destructor\Destructor\obj\Debug\netcoreapp3.1\Destructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107061\Desktop\c sharp#\Destructor\Destructor\obj\Debug\netcoreapp3.1\Destructor.AssemblyInfoInputs.cache
+C:\Users\107061\Desktop\c sharp#\Destructor\Destructor\obj\Debug\netcoreapp3.1\Destructor.AssemblyInfo.cs
+C:\Users\107061\Desktop\c sharp#\Destructor\Destructor\obj\Debug\netcoreapp3.1\Destructor.csproj.CoreCompileInputs.cache
+C:\Users\107061\Desktop\c sharp#\Destructor\Destructor\obj\Debug\netcoreapp3.1\Destructor.dll
+C:\Users\107061\Desktop\c sharp#\Destructor\Destructor\obj\Debug\netcoreapp3.1\Destructor.pdb
+C:\Users\107061\Desktop\c sharp#\Destructor\Destructor\obj\Debug\netcoreapp3.1\Destructor.genruntimeconfig.cache
+C:\Users\107061\Desktop\c sharp#\Destructor\Destructor\obj\Debug\netcoreapp3.1\Destructor.csproj.AssemblyReference.cache

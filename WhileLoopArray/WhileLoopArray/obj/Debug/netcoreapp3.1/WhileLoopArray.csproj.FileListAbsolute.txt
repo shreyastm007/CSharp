@@ -1,0 +1,14 @@
+C:\Users\107061\Desktop\c sharp#\WhileLoopArray\WhileLoopArray\obj\Debug\netcoreapp3.1\WhileLoopArray.csproj.AssemblyReference.cache
+C:\Users\107061\Desktop\c sharp#\WhileLoopArray\WhileLoopArray\obj\Debug\netcoreapp3.1\WhileLoopArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107061\Desktop\c sharp#\WhileLoopArray\WhileLoopArray\obj\Debug\netcoreapp3.1\WhileLoopArray.AssemblyInfoInputs.cache
+C:\Users\107061\Desktop\c sharp#\WhileLoopArray\WhileLoopArray\obj\Debug\netcoreapp3.1\WhileLoopArray.AssemblyInfo.cs
+C:\Users\107061\Desktop\c sharp#\WhileLoopArray\WhileLoopArray\obj\Debug\netcoreapp3.1\WhileLoopArray.csproj.CoreCompileInputs.cache
+C:\Users\107061\Desktop\c sharp#\WhileLoopArray\WhileLoopArray\bin\Debug\netcoreapp3.1\WhileLoopArray.exe
+C:\Users\107061\Desktop\c sharp#\WhileLoopArray\WhileLoopArray\bin\Debug\netcoreapp3.1\WhileLoopArray.deps.json
+C:\Users\107061\Desktop\c sharp#\WhileLoopArray\WhileLoopArray\bin\Debug\netcoreapp3.1\WhileLoopArray.runtimeconfig.json
+C:\Users\107061\Desktop\c sharp#\WhileLoopArray\WhileLoopArray\bin\Debug\netcoreapp3.1\WhileLoopArray.runtimeconfig.dev.json
+C:\Users\107061\Desktop\c sharp#\WhileLoopArray\WhileLoopArray\bin\Debug\netcoreapp3.1\WhileLoopArray.dll
+C:\Users\107061\Desktop\c sharp#\WhileLoopArray\WhileLoopArray\bin\Debug\netcoreapp3.1\WhileLoopArray.pdb
+C:\Users\107061\Desktop\c sharp#\WhileLoopArray\WhileLoopArray\obj\Debug\netcoreapp3.1\WhileLoopArray.dll
+C:\Users\107061\Desktop\c sharp#\WhileLoopArray\WhileLoopArray\obj\Debug\netcoreapp3.1\WhileLoopArray.pdb
+C:\Users\107061\Desktop\c sharp#\WhileLoopArray\WhileLoopArray\obj\Debug\netcoreapp3.1\WhileLoopArray.genruntimeconfig.cache

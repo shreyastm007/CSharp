@@ -1,0 +1,14 @@
+C:\Users\107061\Desktop\c sharp#\FindallMethod\FindallMethod\bin\Debug\netcoreapp3.1\FindallMethod.exe
+C:\Users\107061\Desktop\c sharp#\FindallMethod\FindallMethod\bin\Debug\netcoreapp3.1\FindallMethod.deps.json
+C:\Users\107061\Desktop\c sharp#\FindallMethod\FindallMethod\bin\Debug\netcoreapp3.1\FindallMethod.runtimeconfig.json
+C:\Users\107061\Desktop\c sharp#\FindallMethod\FindallMethod\bin\Debug\netcoreapp3.1\FindallMethod.runtimeconfig.dev.json
+C:\Users\107061\Desktop\c sharp#\FindallMethod\FindallMethod\bin\Debug\netcoreapp3.1\FindallMethod.dll
+C:\Users\107061\Desktop\c sharp#\FindallMethod\FindallMethod\bin\Debug\netcoreapp3.1\FindallMethod.pdb
+C:\Users\107061\Desktop\c sharp#\FindallMethod\FindallMethod\obj\Debug\netcoreapp3.1\FindallMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107061\Desktop\c sharp#\FindallMethod\FindallMethod\obj\Debug\netcoreapp3.1\FindallMethod.AssemblyInfoInputs.cache
+C:\Users\107061\Desktop\c sharp#\FindallMethod\FindallMethod\obj\Debug\netcoreapp3.1\FindallMethod.AssemblyInfo.cs
+C:\Users\107061\Desktop\c sharp#\FindallMethod\FindallMethod\obj\Debug\netcoreapp3.1\FindallMethod.csproj.CoreCompileInputs.cache
+C:\Users\107061\Desktop\c sharp#\FindallMethod\FindallMethod\obj\Debug\netcoreapp3.1\FindallMethod.dll
+C:\Users\107061\Desktop\c sharp#\FindallMethod\FindallMethod\obj\Debug\netcoreapp3.1\FindallMethod.pdb
+C:\Users\107061\Desktop\c sharp#\FindallMethod\FindallMethod\obj\Debug\netcoreapp3.1\FindallMethod.genruntimeconfig.cache
+C:\Users\107061\Desktop\c sharp#\FindallMethod\FindallMethod\obj\Debug\netcoreapp3.1\FindallMethod.csproj.AssemblyReference.cache

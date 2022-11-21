@@ -1,0 +1,14 @@
+C:\Users\107061\Desktop\c sharp#\ElementAdd\ElementAdd\bin\Debug\netcoreapp3.1\ElementAdd.exe
+C:\Users\107061\Desktop\c sharp#\ElementAdd\ElementAdd\bin\Debug\netcoreapp3.1\ElementAdd.deps.json
+C:\Users\107061\Desktop\c sharp#\ElementAdd\ElementAdd\bin\Debug\netcoreapp3.1\ElementAdd.runtimeconfig.json
+C:\Users\107061\Desktop\c sharp#\ElementAdd\ElementAdd\bin\Debug\netcoreapp3.1\ElementAdd.runtimeconfig.dev.json
+C:\Users\107061\Desktop\c sharp#\ElementAdd\ElementAdd\bin\Debug\netcoreapp3.1\ElementAdd.dll
+C:\Users\107061\Desktop\c sharp#\ElementAdd\ElementAdd\bin\Debug\netcoreapp3.1\ElementAdd.pdb
+C:\Users\107061\Desktop\c sharp#\ElementAdd\ElementAdd\obj\Debug\netcoreapp3.1\ElementAdd.csproj.AssemblyReference.cache
+C:\Users\107061\Desktop\c sharp#\ElementAdd\ElementAdd\obj\Debug\netcoreapp3.1\ElementAdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107061\Desktop\c sharp#\ElementAdd\ElementAdd\obj\Debug\netcoreapp3.1\ElementAdd.AssemblyInfoInputs.cache
+C:\Users\107061\Desktop\c sharp#\ElementAdd\ElementAdd\obj\Debug\netcoreapp3.1\ElementAdd.AssemblyInfo.cs
+C:\Users\107061\Desktop\c sharp#\ElementAdd\ElementAdd\obj\Debug\netcoreapp3.1\ElementAdd.csproj.CoreCompileInputs.cache
+C:\Users\107061\Desktop\c sharp#\ElementAdd\ElementAdd\obj\Debug\netcoreapp3.1\ElementAdd.dll
+C:\Users\107061\Desktop\c sharp#\ElementAdd\ElementAdd\obj\Debug\netcoreapp3.1\ElementAdd.pdb
+C:\Users\107061\Desktop\c sharp#\ElementAdd\ElementAdd\obj\Debug\netcoreapp3.1\ElementAdd.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\107061\Desktop\c sharp#\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.exe
+C:\Users\107061\Desktop\c sharp#\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.deps.json
+C:\Users\107061\Desktop\c sharp#\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.runtimeconfig.json
+C:\Users\107061\Desktop\c sharp#\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.runtimeconfig.dev.json
+C:\Users\107061\Desktop\c sharp#\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.dll
+C:\Users\107061\Desktop\c sharp#\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.pdb
+C:\Users\107061\Desktop\c sharp#\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.csproj.AssemblyReference.cache
+C:\Users\107061\Desktop\c sharp#\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107061\Desktop\c sharp#\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfoInputs.cache
+C:\Users\107061\Desktop\c sharp#\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfo.cs
+C:\Users\107061\Desktop\c sharp#\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\107061\Desktop\c sharp#\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.dll
+C:\Users\107061\Desktop\c sharp#\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.pdb
+C:\Users\107061\Desktop\c sharp#\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.genruntimeconfig.cache
